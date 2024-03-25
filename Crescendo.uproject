@@ -7,7 +7,10 @@
 		{
 			"Name": "Crescendo",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
@@ -20,6 +23,10 @@
 		},
 		{
 			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
 	]
