@@ -1,6 +1,6 @@
 # Procedural Planet Generator System in Unreal Engine 5
 
-This project is a procedural planet generator system developed in Unreal Engine 5. It allows for the generation of infinite planets using Perlin noise, custom gravity fields, gravity camera adjustment, foliage spawning, dynamic planet spawning, and despawning at runtime. Additionally, it features a cool spaceship model for exploration.
+This project is a procedural planet generator system developed in Unreal Engine 5, utilizing UE5 geometry scripts and dynamic mesh component with Perlin noise. It allows for the generation of infinite planets using Perlin noise, and further includes custom gravity fields, gravity camera adjustment, foliage spawning, dynamic planet spawning, and despawning at runtime. Additionally, it features a cool spaceship model for exploration.
 
 ## Features
 
@@ -13,7 +13,7 @@ This project is a procedural planet generator system developed in Unreal Engine 
 
 ## Preview
 
-[![Preview](Preview.mp4)](Preview.mp4)
+https://github.com/alpapaydin/Unreal-5-Procedural-Planets-and-Space-Physics/assets/10802108/f59bb9ac-8d4f-4486-855c-70359d39be62
 
 ## Getting Started
 
