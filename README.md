@@ -13,7 +13,9 @@ This project is a procedural planet generator system developed in Unreal Engine 
 
 ## Preview
 
-https://github.com/alpapaydin/Unreal-5-Procedural-Planets-and-Space-Physics/assets/10802108/f59bb9ac-8d4f-4486-855c-70359d39be62
+
+https://github.com/alpapaydin/Unreal-5-Procedural-Planets-and-Space-Physics/assets/10802108/d552c9b2-2392-4d25-adfe-953dd6264015
+
 
 ## Getting Started
 
